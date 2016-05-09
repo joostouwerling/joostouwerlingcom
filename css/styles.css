@@ -1,0 +1,62 @@
+  body {
+    font-family: "Open Sans", Helvetica, Arial;
+  }
+  .joost {
+    max-width: 100%;
+    width: 100%;
+    margin: 0 20px 20px 0;
+  }
+  h1 {
+    font-size: 1.8em;
+    font-weight: 600;
+  }
+  h2 {
+    font-size: 1.5em;
+    letter-spacing: 0.5px;
+    padding-top: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  h2.noPaddingTop {
+    padding-top: 5px;
+  }
+  h3 {
+    font-size: 1.2em;
+    letter-spacing: 0.5px;
+    margin: 25px 0 10px;
+  }
+  h3 .sub {
+    display: block;
+    padding-top: 5px;
+    font-size: 0.8em;
+    color: #464646;
+  }
+  p {
+    font-size: 1em;
+    letter-spacing: 0.5px;
+    margin-bottom: 10px;
+    text-indent: 15px;
+    text-align: justify;
+  }
+  p.first {
+    text-indent: 0px;
+  }
+
+  .socialMenu {
+    margin-top: 20px;
+  }
+  .socialMenu li {
+    display: inline;
+    padding-right: 10px;
+  }
+  .socialMenu li a {
+    color: #464646;
+  }
+  .socialMenu li a:hover {
+    color: #000;
+  }
+
+  .updated {
+    font-size: 0.8em;
+    color: #808080;
+  }
