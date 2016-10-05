@@ -22,11 +22,13 @@
   }
   h3 {
     font-size: 1.2em;
+    font-weight: 600;
     letter-spacing: 0.5px;
-    margin: 25px 0 10px;
+    margin: 35px 0 10px;
   }
   h3 .sub {
     display: block;
+    font-weight: 400;
     padding-top: 5px;
     font-size: 0.8em;
     color: #464646;
@@ -59,4 +61,8 @@
   .updated {
     font-size: 0.8em;
     color: #808080;
+  }
+
+  .black {
+    color: #000;
   }
